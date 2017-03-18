@@ -1,0 +1,3 @@
+BOARD_SHAPE = (9, 6)
+IMG_SHAPE = (720, 1280)
+DEBUG=True
