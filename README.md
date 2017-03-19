@@ -239,7 +239,7 @@ Now it is time to see all put together in action. Checkout this repository and a
 ```
 $> python src/ALF.py ./camera_cal --video project_video.mp4 --output output_project_video.mp4
 ```
-The `output_project_video.mp4` should look something like this:
+The [`output_project_video.mp4`](https://github.com/vguerra/advanced-line-finding/blob/master/output_project_video.mp4) should look something like this:
 
 [![Project Video](https://img.youtube.com/vi/u6KVd3F_oEg/0.jpg)](https://youtu.be/u6KVd3F_oEg)
 
